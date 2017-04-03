@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Baskerville';
+	src: url('baskvl.eot');
+	src: url('baskvl.eot?#iefix') format('embedded-opentype'),
+		url('baskvl.woff') format('woff'),
+		url('baskvl.ttf') format('truetype'),
+		url('baskvl.svg') format('svg');
+}
